@@ -1,0 +1,47 @@
+body{
+    background: color #f4f4f4;
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+#heading{
+    text-align: center;
+    color: #2e6da4;
+}
+#remark{
+    text-align: center;
+    font-weight: bold;
+}
+.intro{
+    text-decoration: none;
+    color: black;
+    font-style: italic;
+    font-weight: bold;    
+}
+.report{
+    width: 80%;
+    margin: 0 auto; 
+    border-bottom: 0 5px 9px rgba(0,0,0,0.1); 
+}
+th,td{
+    padding: 11px 17px;
+    text-align: center;
+}
+caption{
+    color: black;
+    font-weight: bold;
+}
+.btn{
+    color: black;
+    cursor: pointer;
+    border-radius: 6px;
+    border: 1px solid;
+    padding :12px 20px;
+}
+.btn-align{
+    text-align: center;
+}
+marquee{
+    background-color: grey;
+    behavior: alternate;
+}
